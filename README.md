@@ -1,0 +1,2 @@
+# ShivvyTechStack
+GOING H.A.M. ON THE REACT NATIVE APPS BABY
